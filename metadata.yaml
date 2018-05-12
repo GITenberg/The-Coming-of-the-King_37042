@@ -1,0 +1,38 @@
+_repo: The-Coming-of-the-King_37042
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Manton, G. Grenville (George Grenville)
+    aliases:
+    - Manton, George Grenville
+    - Manton, Grenville
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '39225'
+    url: http://www.gutenberg.org/2009/agents/39225
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hocking, Joseph
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '4870'
+    url: http://www.gutenberg.org/2009/agents/4870
+description: ''
+gutenberg_issued: '2011-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- !lcsh 'Adventure stories'
+title: The Coming of the King
+url: http://www.gutenberg.org/ebooks/37042
